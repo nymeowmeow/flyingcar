@@ -1,0 +1,1 @@
+python motion_planning.py --goal_lon -122.39725 --goal_lat 37.79392
